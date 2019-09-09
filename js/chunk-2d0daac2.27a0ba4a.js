@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([["chunk-2d0daac2"],{"6d31":function(e,n,t){"use strict";t.r(n);var c={name:"chat"},o=t("2877"),a=function(e){e.options.__source="src/views/demo/page5/index.vue"},i=Object(o.a)(c,function(){var e=this.$createElement;return(this._self._c||e)("div")},[],!1,null,"fa0d9986",null);"function"==typeof a&&a(i);n.default=i.exports}}]);
